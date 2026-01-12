@@ -25,6 +25,7 @@ public class PlaylistTester {
         p.addSong(new Song("Devan is Cool but with a capital C", "Devan Truong", 3, 36));
         p.addSong(new Song("Devan is Awesome but with a capital A", "Devan Truong", 2, 41));
         p.addSong(new Song("Devan is sad?", "Devan Truong", 1,32));
+        p.addSong(new Song("Devan is Sad? but with a capital S", "Devan Truong", 2,37));
 
 
         System.out.println("Printing the songs...\n");
