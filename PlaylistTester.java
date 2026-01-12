@@ -43,8 +43,8 @@ public class PlaylistTester {
         System.out.println("Printing the songs...\n");
         p.printAllSongs();
         
-        System.out.println("\nRemoving the song in position 2...\n");
-        p.removeSong(2);
+        System.out.println("\nRemoving the song in position 1...\n");
+        p.removeSong(1);
 
         System.out.println("Printing the songs...\n");
         p.printAllSongs();
