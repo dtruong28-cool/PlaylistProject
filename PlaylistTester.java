@@ -33,12 +33,12 @@ public class PlaylistTester {
 
         p.printAllSongs();
 
-        System.out.println("\nLiking the songs in position 1, 3, 4....\n");
+        System.out.println("\nLiking the songs in position 2, 3, 4....\n");
         //Once your songs are 'liked', this should be reflected in the next printout
 
-        p.likeSong(1);
+        p.likeSong(2);
         p.likeSong(3);
-        p.likeSong(4);
+        p.likeSong(5);
 
         System.out.println("Printing the songs...\n");
         p.printAllSongs();
