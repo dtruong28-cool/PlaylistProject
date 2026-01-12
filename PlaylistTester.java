@@ -20,7 +20,7 @@ public class PlaylistTester {
          */
         
         System.out.println("Adding songs to the Playlist...\n");
-        p.addSong(new Song("Devan is cool", "Devan Truong", 3, 51));
+        p.addSong(new Song("Devan is cool", "Devan Truong", 1, 15));
         p.addSong(new Song("Devan is awesome", "Devan Truong", 2, 31));
         p.addSong(new Song("Devan is Cool but with a capital C", "Devan Truong", 3, 36));
         p.addSong(new Song("Devan is Awesome but with a capital A", "Devan Truong", 2, 41));
